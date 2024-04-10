@@ -4,7 +4,7 @@ This application shows the earthquakes in 2023 with an exaggerated depth. The ea
 
 [![app-screenshot](./app-screenshot.png)](https://github.com/deverestHood/earthquakes-viz)
 
-[2023 World Earthquakes Data Visualization Jupyter Notebook viewer](https://nbviewer.org/github/deverestHood/earthquakes-viz/blob/main/earthquake_data.ipynb) via [nbviewer](https://nbviewer.org/)
+[2023 World Earthquakes Data Visualization Jupyter Notebook viewer](https://nbviewer.org/github/deverestHood/earthquakes-viz/blob/main/earthquake_data.ipynb?flush_cache=true) via [nbviewer](https://nbviewer.org/)
 
 ## How to re-create this visualization with your own data
 
