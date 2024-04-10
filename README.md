@@ -1,6 +1,6 @@
 # Earthquakes visualization
 
-This application shows the earthquakes in 2023 with an exaggerated depth. The earthquake data used in this app comes from [USGS](https://earthquake.usgs.gov/earthquakes/search/). The app is created with [Esri's ArcGIS API for JavaScript](https://developers.arcgis.com/javascript).
+This application shows the earthquakes in 2023 with an exaggerated depth. The earthquake data used in this app comes from [USGS](https://earthquake.usgs.gov/earthquakes/search/). The app is created with [Esri's ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript).
 
 [![app-screenshot](./app-screenshot.png)](https://github.com/deverestHood/earthquakes-viz)
 
